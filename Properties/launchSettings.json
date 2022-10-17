@@ -14,7 +14,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "https://freeman-crud-app.herokuapp.com;http://freeman-crud-app.herokuapp.com",
+      "applicationUrl": "https://freeman-crud-app.herokuapp.com:5432;http://freeman-crud-app.herokuapp.com:5432",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
