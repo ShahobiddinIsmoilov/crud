@@ -1,0 +1,1 @@
+web: dotnet ef migrations add CrudDB & dotnet ef database update
